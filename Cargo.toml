@@ -1,7 +1,7 @@
 [package]
 name = "d-macro"
 version = "0.1.0"
-publish = false
+publish = true
 description = "Why `dbg!(...)` when you can `d!(...)`"
 authors = ["Felix Rabe <felix@rabe.io>"]
 edition = "2018"
