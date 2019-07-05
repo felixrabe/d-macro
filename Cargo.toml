@@ -1,0 +1,11 @@
+[package]
+name = "d-macro"
+version = "0.1.0"
+publish = false
+description = "Why `dbg!(...)` when you can `d!(...)`"
+authors = ["Felix Rabe <felix@rabe.io>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/felixrabe/d-macro"
+
+[dependencies]
