@@ -1,5 +1,18 @@
 # d-macro
 
+`d!()` is a `dbg!()`-like macro with
+
+- more formatting options,
+- microsecond timestamps,
+- showing the caller's thread name.
+
+![](./examples/screenshot-01.png)
+
+![](./examples/screenshot-02.png)
+
+(The `#?` variant is currently uglier than necessary, but that can be fixed
+in a future version.)
+
 ## Examples
 
 See [`examples`](./examples) for examples.
